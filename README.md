@@ -1,6 +1,8 @@
 ### 📝 ToDo List Web Application
 This is a lightweight and modular ToDo List Web Application built using Spring Boot, leveraging Spring MVC, Spring Data JPA, Thymeleaf, and an H2 (or configurable SQL) database. It offers essential task management functionality with clean code architecture.
 
+Added some additional lines so GitHub accepts is as Java instead of HTML, however HTML is still used.
+
 ## 🛠️ Tech Stack
 Backend: Java 17, Spring Boot, Spring MVC, Spring Data JPA
 
